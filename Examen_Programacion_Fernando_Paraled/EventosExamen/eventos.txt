@@ -1,0 +1,3 @@
+Concierto,2025-05-21 20:00,Madrid,Espectáculo de música en vivo
+Seminario,2025-06-10 09:00,Barcelona,Jornada técnica empresarial
+Festival,2025-07-15 18:30,Valencia,Evento cultural al aire libre
